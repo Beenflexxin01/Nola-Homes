@@ -719,17 +719,12 @@ textarea {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .btn-property {
-    display: block;
-  }
-
   .about-us {
-    text-align: center;
     width: 100%;
   }
 
-  .tert__header-color {
-    color: #555;
+  .btn-property {
+    display: block;
   }
 
   .headers {
