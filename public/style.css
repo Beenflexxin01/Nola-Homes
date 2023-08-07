@@ -719,7 +719,7 @@ textarea {
 
 @media (max-width: 40rem) {
   body {
-    background-color: #00ff88;
+    /* background-color: #00ff88; */
     background-color: maroon;
   }
 
