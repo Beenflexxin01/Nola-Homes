@@ -707,20 +707,20 @@ textarea {
     display: block;
   }
 
-  .grid-2-cols {
+  /* .grid-2-cols {
     grid-template-columns: 1fr;
   }
 
   .img_grid-cols {
     grid-template-columns: 1fr;
-  }
+  } */
 
   .img-container-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
   .tert__header-color {
-    color: #000;
+    color: #383636;
   }
 
   .about-us {
