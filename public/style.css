@@ -723,6 +723,11 @@ textarea {
     display: block;
   }
 
+  .about-us {
+    text-align: center;
+    width: 100%;
+  }
+
   .tert__header-color {
     color: #555;
   }
