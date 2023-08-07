@@ -614,10 +614,6 @@ textarea {
 }
 
 @media (max-width: 68rem) {
-  body {
-    background-color: red;
-  }
-
   .sign {
     margin-left: 40rem;
   }
@@ -664,6 +660,10 @@ textarea {
 
   .nav-open .icon-mobile-nav[name='menu-outline'] {
     display: none;
+  }
+
+  .border {
+    border-bottom: none;
   }
 
   .main-nav-link {
