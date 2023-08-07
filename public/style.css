@@ -686,14 +686,6 @@ textarea {
     font-size: 2.5rem;
   }
 
-  input,
-  label,
-  textarea,
-  #map,
-  .tour--btn {
-    width: 80%;
-  }
-
   .hidden-btn {
     display: none;
   }
@@ -727,13 +719,16 @@ textarea {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .tert__header-color {
+    color: #000;
+  }
+
   .about-us {
     width: 100%;
   }
 
   .btn-property {
     display: block;
-    width: 80%;
   }
 
   .headers {
@@ -762,5 +757,17 @@ textarea {
 
   .secondary-header {
     font-size: 1.7rem;
+  }
+
+  .btn-property {
+    width: 80%;
+  }
+
+  input,
+  label,
+  textarea,
+  #map,
+  .tour--btn {
+    width: 80%;
   }
 }
