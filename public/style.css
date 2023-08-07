@@ -723,6 +723,10 @@ textarea {
     display: block;
   }
 
+  .tert__header-color {
+    color: #555;
+  }
+
   .headers {
     margin: 15rem 0;
   }
