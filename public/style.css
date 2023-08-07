@@ -689,6 +689,7 @@ textarea {
   input,
   label,
   textarea,
+  #map,
   .tour--btn {
     width: 80%;
   }
