@@ -686,6 +686,13 @@ textarea {
     font-size: 2.5rem;
   }
 
+  input,
+  label,
+  textarea,
+  .tour--btn {
+    width: 80%;
+  }
+
   .hidden-btn {
     display: none;
   }
@@ -725,6 +732,7 @@ textarea {
 
   .btn-property {
     display: block;
+    width: 80%;
   }
 
   .headers {
