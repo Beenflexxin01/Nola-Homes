@@ -595,10 +595,6 @@ textarea {
     <!-- //////////////////// --> */
 
 @media (max-width: 74rem) {
-  body {
-    background-color: #bcec5b;
-  }
-
   .sign {
     margin-left: 50rem;
   }
@@ -628,10 +624,6 @@ textarea {
 }
 
 @media (max-width: 58rem) {
-  body {
-    background-color: #00ff88;
-  }
-
   .main-header {
     justify-content: space-between;
     align-items: center;
@@ -718,11 +710,6 @@ textarea {
 }
 
 @media (max-width: 40rem) {
-  body {
-    /* background-color: #00ff88; */
-    background-color: maroon;
-  }
-
   .headers {
     line-height: 1.9;
   }
