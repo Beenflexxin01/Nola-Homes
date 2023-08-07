@@ -617,6 +617,21 @@ textarea {
   .sign {
     margin-left: 40rem;
   }
+
+  .img-grid {
+    display: block;
+  }
+
+  .img_grid--cols {
+    /* background-color: #555; */
+    border: none;
+    border-bottom: none;
+    border-radius: 0.7rem;
+    box-shadow: none;
+    padding-bottom: 3rem;
+    line-height: 1.6;
+    transition: all 0.3s;
+  }
 }
 
 @media (max-width: 58rem) {
@@ -692,12 +707,20 @@ textarea {
     display: block;
   }
 
+  .grid-2-cols {
+    grid-template-columns: 1fr;
+  }
+
+  .img_grid-cols {
+    grid-template-columns: 1fr;
+  }
+
   .img-container-grid {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .about-us {
-    width: 100%;
+  .btn-property {
+    display: block;
   }
 
   .headers {
