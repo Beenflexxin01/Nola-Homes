@@ -106,7 +106,6 @@ li {
 /* BACKGROUND  */
 /* ///////////////////////// */
 .img-background {
-  overflow-y: hidden;
   height: 50rem;
   position: relative;
   background-image: linear-gradient(
@@ -224,7 +223,7 @@ li {
     <!-- //////////////////// --> */
 .listings-direction {
   display: flex;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .listings-direction:hover {
@@ -545,7 +544,6 @@ textarea {
 .imggg {
   display: flex;
   overflow: hidden;
-  /* overflow-x: scroll; */
 }
 
 .imggg:hover {
