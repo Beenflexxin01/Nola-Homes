@@ -1,0 +1,51 @@
+rent.json / buy.json {
+ title
+ description
+ features
+ img
+ imgcover   
+ ratingAverage
+ map
+ policy
+ locations
+ price (varies by bedrooms)
+
+}
+
+user.json {
+    name
+    email
+    pword
+    pword confirm
+    zipcode
+    telephone
+    role
+    photo
+}
+
+review.json {
+    name
+    email
+    review
+    location
+}
+
+PAGES TO BUILD
+    HTML / PUG
+        Index 
+        rent
+        buy
+        login - form
+        sign up - form
+        Review - form
+        All
+        Account
+
+ROUTES
+    Get - Users, houses, reviews, 
+    POST - Users, house, review
+    Patch - PasswordUpdate, resetPassword, 
+        forgotPassword, userUpdate, houseUpdate, reviewUpdate
+    Delete - Users, house, revies
+
+    
