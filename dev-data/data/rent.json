@@ -1,1 +1,606 @@
+[
+  {
+    "title": "The District Apartments",
+    "address": "425 N Rosemont Ave, Dallas, TX 75208",
+    "overview": "Located five minutes from the Bishop Arts District, The District is a 23-unit apartment community by Wedgewood. Our newly renovated apartments feature a great residential mix of one and two bedroom apartments for rent. Call us today to see your new home!*Rent is subject to change based on move-in date",
+    "price": "2000",
+    "policies": [
+      {
+        "leaseTerms": "$250 - $300 deposit fee",
+        "pets": "Dogs & Cats Allowed"
+      }
+    ],
+    "neigborhood": "75208",
+    "features": [
+      {
+        "keyFeatures": [
+          "Pet-friendly",
+          "In-unit dryer in-unit washer",
+          "Air conditioning available",
+          "Street parking, surface parking lot"
+        ],
+        "security": "Gated entry",
+        "appliances": [
+          "Dishwasher",
+          "Dryer",
+          "Microwave Oven",
+          "Range",
+          "Refrigerator",
+          "Washer"
+        ],
+        "cooling": ["Air conditioning", "Ceiling fan"],
+        "flooring": "Hardwoord",
+        "specialFeatures": ["BBQ / Picnic Area", "Courtyard", "Recycling"]
+      }
+    ],
+    "images": [
+      "rent 3.jpg",
+      "rent 4.jpg",
+      "rent 5.jpg",
+      "rent 6.jpg",
+      "rent 7.jpg",
+      "rent 8.jpg",
+      "rent 9.jpg",
+      "rent 10.jpg",
+      "rent 11.jpg",
+      "rent 12.jpg",
+      "rent 13.jpg",
+      "rent 14.jpg",
+      "rent 15.jpg"
+    ],
+    "imageCover": "rent-cover.jpg"
+  },
 
+  {
+    "title": "Essence North Dallas",
+    "address": "4200 Horizon North Pkwy, Dallas, TX 75287",
+    "overview": "Essence of North Dallas invites you to be a part of our newly designed apartment community. Enjoy the sophisticated feel of modern living within the park- like setting of our beautifully landscaped grounds. Once inside your new home, experience unique finishes that truly set us apart from the mundane. Our newly redesigned interiors feature contemporary LED illuminated bathroom mirrors, sparkling white quartz countertops, sleek steel light fixtures, and elegant wood inspired flooring.",
+    "price": "1019",
+    "policies": [
+      {
+        "parking": "Detached garage",
+        "pets": "Dogs & Cats Allowed",
+        "smoking": "Allowed"
+      }
+    ],
+    "neigborhood": "75287",
+    "features": [
+      {
+        "keyFeatures": [
+          "Pet-friendly",
+          "In-unit dryer in-unit washer",
+          "Detached garage, garage parking, other parking",
+          "Garden"
+        ],
+
+        "communityRooms": ["Business center", "Club house", "Fitness center"],
+        "fitnessSports": ["Basketball Court", "Tennis court"],
+        "other": "Swimming pool",
+        "outdoor common areas": "Garden",
+        "security": "Gated entry",
+        "servicesFacilities": "Onsite Management",
+
+        "appliances": ["Dryer", "Washer"],
+        "cooling": ["Ceiling fan"],
+        "flooring": "Hardwoord",
+        "specialFeatures": [
+          "2 Inch Cordless Blinds",
+          "Attached Garages *",
+          "Bridge Credit Plus",
+          "Conference / Meeting Room"
+        ]
+      }
+    ],
+    "images": [
+      "rent-2-2.jpg",
+      "rent-2-4.jpg",
+      "rent-2-5.jpg",
+      "rent-2-6.jpg",
+      "rent-2-7.jpg",
+      "rent-2-8.jpg",
+      "rent-2-9.jpg",
+      "rent-2-10.jpg",
+      "rent-2-11.jpg",
+      "rent-2-12.jpg",
+      "rent-2-13.jpg",
+      "rent-2-14.jpg",
+      "rent-2-15.jpg"
+    ],
+    "imageCover": "rent-2-cover.jpg"
+  },
+
+  {
+    "title": "Bellarose Senior Living",
+    "address": "18001 E 51st St S, Tulsa, OK 74134",
+    "overview": "Bellarose Senior Living in Tulsa, Oklahoma, offers Independent Living, Assisted Living and Memory Care in separate areas, but under one roof. Each area includes restaurant-style dining, lots of windows and natural light, and open floor plans. Assisted Living features four courtyards where family and friends can gather in seating areas near fountains or lush landscaping. The secure Memory Care courtyard offers beautiful flowers, resident gardening and comfortable seating areas.",
+    "price": "1700",
+    "neigborhood": "Lynn Lane",
+    "images": [
+      "rent-3-3.jpg",
+      "rent-3-4.jpg",
+      "rent-3-5.jpg",
+      "rent-3-6.jpg",
+      "rent-3-7.jpg",
+      "rent-3-8.jpg",
+      "rent-3-9.jpg",
+      "rent-3-10.jpg",
+      "rent-3-11.jpg",
+      "rent-3-12.jpg",
+      "rent-3-13.jpg",
+      "rent-3-14.jpg",
+      "rent-3-15.jpg"
+    ],
+    "imageCover": "rent-3-cover.jpg"
+  },
+
+  {
+    "title": "Vandever Lofts",
+    "address": "16 E 5th St, Tulsa, OK 74103",
+    "overview": "Historic Downtown Loft Living. The Vandever lofts are the perfect blend of historic living and modern luxury all in Downtown Tulsa. Our loft style apartments offer a truly unique living experience. With tall floor to ceiling heights, granite counter-tops, polished concrete floors and double vanities the apartments have all the modern day amenities within a historic shell. Set up a tour today.",
+    "price": "1800",
+    "office hours": [
+      {
+        "Mon - Fri": "8 am - 5 pm",
+        "Sat": "Closed",
+        "Sun": "Closed"
+      }
+    ],
+    "policies": [
+      {
+        "leaseTerms": "$400 deposit fee",
+        "parking": "Detached garage",
+        "pets": [
+          {
+            "Dogs": [
+              "Allowed",
+              "2 pet max",
+              "$200 one time fee",
+              "We are a very pet friendly community and allow 2 pets per household. There is a one time pet fee of $200 and no monthly pet rent. We have no breed or weight restrictions. Please call our Leasing Office for complete Pet Policy information."
+            ],
+            "Reptiles": [
+              "Allowed",
+              "2 pet max",
+              "$200 one time fee",
+              "We are a very pet friendly community and allow 2 pets per household. There is a one time pet fee of $200 and no monthly pet rent. We have no breed or weight restrictions. Please call our Leasing Office for complete Pet Policy information."
+            ],
+            "Cats": [
+              "Allowed",
+              "2 pet max",
+              "$200 one time fee",
+              "We are a very pet friendly community and allow 2 pets per household. There is a one time pet fee of $200 and no monthly pet rent. We have no breed or weight restrictions. Please call our Leasing Office for complete Pet Policy information."
+            ]
+          }
+        ]
+      }
+    ],
+    "neigborhood": "Downtown",
+    "features": [
+      {
+        "keyFeatures": ["Pet-friendly", "Shared Laundry"],
+        "communityRooms": ["Fitness center", "Lounge"],
+        "security": "Gated entry",
+        "servicesFacilities": "Shared Laundry",
+        "appliances": ["Dryer", "Washer"],
+        "cooling": ["Ceiling fan"],
+        "flooring": "Concrete",
+        "specialFeatures": [
+          "24 / 7 Security",
+          "Code Access Entry",
+          "Custom Cabinets",
+          "Large Window",
+          "Pet Friendly",
+          "Secure Mailroom"
+        ]
+      }
+    ],
+    "images": [
+      "rent-4-3.jpg",
+      "rent-4-4.jpg",
+      "rent-4-5.jpg",
+      "rent-4-6.jpg",
+      "rent-4-7.jpg",
+      "rent-4-8.jpg",
+      "rent-4-9.jpg",
+      "rent-4-10.jpg",
+      "rent-4-11.jpg",
+      "rent-4-12.jpg",
+      "rent-4-13.jpg",
+      "rent-4-14.jpg",
+      "rent-4-15.jpg"
+    ],
+    "imageCover": "rent-4-cover.jpg"
+  },
+
+  {
+    "title": "Metro at Brady",
+    "address": "10 W Archer St, Tulsa, OK 74103",
+    "overview": "The five-story brick building was designed with the convenience of our Tulsa residents in mind. These Downtown Tulsa apartments are available in expertly designed one and two bedroom floor plans. Our location is in close proximity to the best that Downtown Tulsa has to offer. From restaurants, bars, live music venues, and art galleries of the Tulsa Arts District to ONEOK Field, the BOK Center, Tulsa Performing Arts Center, Guthrie Green, or Oklahoma Jazz Hall of Fame- there is no shortage of neighborhood fun surrounding our luxury apartments in Tulsa, OK! American Residential Group and the staff of Metro at Brady Arts District are here to make you feel right at home. Come home to Metro at Brady in the Tulsa Arts District.",
+    "price": "3500",
+    "officeHours": [
+      {
+        "Mon - Thur": "8:30 am - 5:30 pm ",
+        "Fri": "9 am - 5 pm",
+        "Sat - Sun": "Closed"
+      }
+    ],
+    "policies": [
+      {
+        "leaseTerms": "Less than 1 year",
+        "parking": ["Attached garage", "Cover parking"],
+        "pets": [
+          {
+            "Dogs": ["Allowed"],
+
+            "Cats": ["Allowed"]
+          }
+        ]
+      }
+    ],
+    "neigborhood": "Downtown",
+    "features": [
+      {
+        "keyFeatures": [
+          "Pet-friendly",
+          "In-unit dryer, in-unit washer",
+          "Air conditioning available",
+          "Attached garage, covered ",
+          "Elevator"
+        ],
+        "accessibility": "Disabled access",
+        "communityRooms": ["Club house", "Fitness center"],
+        "other": "Swimming pool",
+        "security": ["Controlled Access", "Night Patrol"],
+        "servicesFacilities": [
+          "Elevator",
+          "Guest Suite",
+          "Onsite Management",
+          "Package Service",
+          "Storage Space"
+        ],
+        "appliances": [
+          "Dryer",
+          "Dishwasher",
+          "Garbage Disposal",
+          "Microwave Oven",
+          "Refrigerator",
+          "Washer"
+        ],
+        "cooling": ["Air conditioning", "Ceiling fan"],
+        "internetSatellite": ["Cable", "High-speed internet"],
+        "specialFeatures": [
+          "Alarm",
+          "Availability 24 hours",
+          "Garage",
+          "Gate",
+          "Sundeck",
+          "View",
+          "Window Coverings",
+          "Short Term Lease"
+        ]
+      }
+    ],
+    "images": [
+      "rent-5-2.jpg",
+      "rent-5-3.jpg",
+      "rent-5-4.jpg",
+      "rent-5-5.jpg",
+      "rent-5-6.jpg",
+      "rent-5-7.jpg",
+      "rent-5-8.jpg",
+      "rent-5-9.jpg",
+      "rent-5-10.jpg",
+      "rent-5-11.jpg",
+      "rent-5-12.jpg",
+      "rent-5-13.jpg",
+      "rent-5-14.jpg"
+    ],
+    "imageCover": "rent-5-cover.jpg"
+  },
+
+  {
+    "title": "Twill Homes - Centennial Crossing",
+    "address": "3401 N Elm Ave, Broken Arrow, OK 74012",
+    "overview": "Twill Centennial Crossing offers all the luxury and privacy of a high-end single-family home with the convenience of maintenance-free living! Our brand new one, two, and three bedroom single-family homes feature private fenced-in backyards, 10-foot ceilings, designer finishes, gourmet kitchens with granite countertops and stainless-steel appliances, generous storage space, and full-size washers and dryers.",
+    "price": "3000",
+    "office hours": [
+      {
+        "Mon - Fri": "8:30 am - 5:30 pm ",
+        "Sat": "10 am - 4 pm",
+        "Sun": "Closed"
+      }
+    ],
+    "policies": [
+      {
+        "leaseTerms": ["$40 application fee", "$50 administrative fee"],
+        "parking": [
+          {
+            "Covered Lot": "One covered parking spot per home at no additional cost"
+          }
+        ],
+        "pets": [
+          {
+            "Dogs": [
+              "Allowed",
+              "2 pet max",
+              "85 lbs. weight limit",
+              "$250 pet deposit",
+              "$250 one time fee",
+              "$20 monthly pet fee",
+              "No aggressive breeds",
+              "Call office for Details"
+            ],
+
+            "Cats": [
+              "Allowed",
+              "2 pet max",
+              "85 lbs. weight limit",
+              "$250 pet deposit",
+              "$250 one time fee",
+              "$20 monthly pet fee",
+              "No aggressive breeds",
+              "Call office for Details"
+            ]
+          }
+        ]
+      }
+    ],
+    "Neigborhood": "74012",
+    "features": [
+      {
+        "Key features": [
+          "Pet-friendly",
+          "Air conditioning available",
+          "Covered parking, street parking, surface parking lot"
+        ],
+        "Accessibility": "Disabled access",
+        "communityRooms": ["Club house", "Fitness center"],
+        "other": ["Hot tub", "Swimming pool"],
+        "security": "Gated entry",
+        "servicesFacilities": [
+          "Onsite Management",
+          "Package Service",
+          "Pet park"
+        ],
+
+        "cooling": "Air conditioning",
+        "specialFeatures": [
+          "Covered Assigned Parking",
+          "Garages",
+          "Off Street Parking",
+          "BBQ / Picnic Area"
+        ]
+      }
+    ],
+    "images": [
+      "rent-6-2.jpg",
+      "rent-6-3.jpg",
+      "rent-6-4.jpg",
+      "rent-6-5.jpg",
+      "rent-6-6.jpg",
+      "rent-6-7.jpg",
+      "rent-6-8.jpg",
+      "rent-6-9.jpg",
+      "rent-6-10.jpg",
+      "rent-6-11.jpg",
+      "rent-6-12.jpg",
+      "rent-6-13.jpg",
+      "rent-6-14.jpg"
+    ],
+    "imageCover": "rent-6-cover.jpg"
+  },
+
+  {
+    "title": "Riverfront Towers",
+    "address": "250 Riverfront Dr, Detroit, MI 48226",
+    "overview": "Welcome to Riverfront Towers a residential community featuring one and two bedroom apartments in Detroit, MI. Spacious layouts and amenities welcome you home, along with exceptional service and an ideal location within walking distance to shopping, dining and entertainment options. Every residence offers spectacular views of the Detroit River and the Windsor skyline. Riverfront's location is unparalleled, with easy access to all of Detroit's most popular attractions, dining and entertainment. In addition, you'll find an extensive collection of on-site amenities that make life at the Front luxurious and convenient. Are you looking for an apartment for rent in Detroit, MI? Contact our friendly, professional office staff to schedule a tour today.",
+    "price": "2800",
+    "officeHours": [
+      {
+        "Mon - Fri": "10: am - 5:30 pm ",
+        "Sat - Sun": "Closed"
+      }
+    ],
+    "policies": [
+      {
+        "leaseTerms": ["3months - 15 months ", "$200 - $1000 application fee"],
+
+        "pets": [
+          {
+            "Dogs": ["Allowed", "2 pet max", "$35 monthly pet fee"],
+
+            "Cats": ["Allowed", "2 pet max", "$35 monthly pet fee"]
+          }
+        ]
+      }
+    ],
+    "neigborhood": "West Side Industrial",
+    "features": [
+      {
+        "keyFeatures": [
+          "Pet-friendly",
+          "In-unit dryer in-unit washer",
+          "Air conditioning available",
+          "Barbecue"
+        ],
+        "communityRooms": ["Business center", "Club House", "Fitness Center"],
+        "other": "Swimming pool",
+        "outdoorAreas": "Barbecue",
+        "appliances": ["Dishwasher", "Dryer", "Refrigerator", "Washer"],
+        "cooling": "Air conditioning",
+        "internetSatellite": "cable",
+        "specialFeatures": [
+          "24hours Hub by Amazon Package Center",
+          "Free Internet",
+          "Tv Lounge"
+        ]
+      }
+    ],
+    "images": [
+      "rent-7-2.jpg",
+      "rent-7-3.jpg",
+      "rent-7-4.jpg",
+      "rent-7-5.jpg",
+      "rent-7-6.jpg",
+      "rent-7-7.jpg",
+      "rent-7-8.jpg",
+      "rent-7-9.jpg",
+      "rent-7-10.jpg",
+      "rent-7-11.jpg",
+      "rent-7-12.jpg",
+      "rent-7-13.jpg",
+      "rent-7-14.jpg"
+    ],
+    "imageCover": "rent-7-cover.jpg"
+  },
+
+  {
+    "title": "NEMA Chicago",
+    "address": "1210 S Indiana Ave, Chicago, IL 60605",
+    "overview": "Everything you need is already home. The city's smartest residence, NEMA Chicago is a 76-story architectural icon located on Grant Park, designed by Rafael Vinoly and David Rockwell, and boasting unprecedented lake, park, and city views. NEMA's 70,000-square-foot collection of amenities is complemented by tech-powered service and bespoke lifestyle programming, offering a full calendar of exclusive resident events and 12+ weekly fitness classes. Smart-home-ready residences, ranging from studios to four-bedrooms, present the perfect canvas for personalized comfort and feature expansive floor-to-ceiling windows; many apartments also come with large balconies and terraces for those priceless city moments of calm and fresh air. NEMA's coveted location at the Michigan Ave and Roosevelt Rd corner of Grant Park means Chicago's 'Front Yard' serves as residents' ultimate playground. Schedule a virtual or in-person tour today and find out what makes NEMA a Home Made Better.",
+    "price": "5000",
+    "office hours": [
+      {
+        "Mon - Thur": "9 am - 6 pm ",
+        "Fri": "8 am - 4 pm",
+        "Sat": "Closed",
+        "Sun": "10 am - 5 pm"
+      }
+    ],
+    "policies": [
+      {
+        "leaseTerms": 12,
+        "parking": ["Detached", "Covered parking"],
+        "pets": [
+          {
+            "Dogs": [
+              "Allowed",
+              "2 pet max",
+              "$500 one time fee",
+              "No Weight Limit"
+            ]
+          }
+        ]
+      }
+    ],
+    "neigborhood": "South Loop",
+    "features": [
+      {
+        "keyFeatures": [
+          "Pet-friendly",
+          "In-unit dryer in-unit washer",
+          "Air conditioning available",
+          "Covered parking, detached garage, garage parking, other parking",
+          "Elevator",
+          "Playground"
+        ],
+        "communityRooms": ["Business center", "Club House", "Fitness Center"],
+        "fitnessSports": "Basketball court",
+        "other": ["Sauna", "Swimming pool"],
+        "outdoorAreas": "Playground",
+        "security": ["Doorman", "Gated entry", "Night patrol"],
+        "serviceFacilities": [
+          "Bicycle storage",
+          "Elevator",
+          "Guest suite",
+          "Onsite management",
+          "Spanish-speaking staff"
+        ],
+        "appliances": [
+          "Dishwasher",
+          "Dryer",
+          "Refrigerator",
+          "Washer",
+          "Microwave Oven"
+        ],
+        "cooling": "Air conditioning",
+        "internetSatellite": ["cable", "High-speed internet"],
+        "specialFeatures": [
+          "Availability 24 hours",
+          "BBQ / Picnic area",
+          "Courtyard",
+          "Electronic Thermostat"
+        ]
+      }
+    ],
+    "images": [
+      "rent-8-2.jpg",
+      "rent-8-3.jpg",
+      "rent-8-4.jpg",
+      "rent-8-5.jpg",
+      "rent-8-6.jpg",
+      "rent-8-7.jpg",
+      "rent-8-8.jpg",
+      "rent-8-9.jpg",
+      "rent-8-10.jpg",
+      "rent-8-11.jpg",
+      "rent-8-12.jpg",
+      "rent-8-13.jpg",
+      "rent-8-14.jpg"
+    ],
+    "imageCover": "rent-8-cover.jpg"
+  },
+
+  {
+    "title": "Weston Point Apartments",
+    "address": "13340 Outlook Dr, Overland Park, KS 66209",
+    "overview": "In 2022 Weston Point Apartments earned the IREM Certified Sustainable Property designation. This certification is a mark of distinction for multifamily properties. IREMs sustainability certification provides properties with recognition for resource efficiency and environmental programs.",
+    "price": "3800",
+    "office hours": [
+      {
+        "Mon - Fri": "9 am - 6 pm ",
+        "Sat": "10 am - 5 pm",
+        "Sun": "1 pm - 5 pm"
+      }
+    ],
+    "policies": [
+      {
+        "parking": "Parking lot",
+        "pets": [
+          {
+            "Dogs": "Allowed",
+            "Cats": "Allowed"
+          }
+        ]
+      }
+    ],
+    "Neigborhood": "66209",
+    "features": [
+      {
+        "keyfeatures": [
+          "Pet-friendly",
+          "In-unit dryer in-unit washer",
+          "Other parking, parking lot, surface parking lot",
+          "Playground"
+        ],
+        "communityRooms": "Club House",
+        "outdoorAreas": "Patio",
+        "appliances": ["Dishwasher", "Dryer"],
+        "cooling": "Ceiling fan",
+        "specialFeatures": [
+          "Beautiful wooded landscape",
+          "Carports",
+          "Complimentary mountain bikes for resident use",
+          "Computer nooks",
+          "Large windows for natural lighting",
+          "Cyber cafe with coffee bar"
+        ]
+      }
+    ],
+    "images": [
+      "rent-9-2.jpg",
+      "rent-9-3.jpg",
+      "rent-9-4.jpg",
+      "rent-9-5.jpg",
+      "rent-9-6.jpg",
+      "rent-9-7.jpg",
+      "rent-9-8.jpg",
+      "rent-9-9.jpg",
+      "rent-9-10.jpg",
+      "rent-9-11.jpg",
+      "rent-9-12.jpg",
+      "rent-9-13.jpg",
+      "rent-9-14.jpg"
+    ],
+    "imageCover": "rent-9-cover.jpg"
+  }
+]
