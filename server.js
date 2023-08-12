@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 
 const dotenv = require('dotenv');
 
+const app = require('./app');
+
 process.on('uncaughtException', function (err) {
   console.log(err.name, err.message);
   console.log('UNCAUGHT EXCEPTION 😫 Shutting down NOW...');
@@ -10,8 +12,6 @@ process.on('uncaughtException', function (err) {
 });
 
 dotenv.config({ path: './config.env' });
-
-const app = require('./app');
 
 const DB = process.env.DATABASE.replace(
   '<PASSWORD>',
@@ -40,3 +40,9 @@ process.on('uncaughtException', function (err) {
     process.exit(1);
   });
 });
+
+// const port = 3000;
+
+// app.listen(port, function () {
+//   console.log(`App is running on port ${port}....`);
+// });
